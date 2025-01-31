@@ -1,6 +1,6 @@
 ## 목적 및 설명
 
-![Image](https://github.com/user-attachments/assets/6b7a468f-4b3d-445e-98e0-3ef52ed8f2bd)
+![Image](https://github.com/user-attachments/assets/7a1e0367-739b-4078-af81-dc299ea31658)
 
 하나의 VPC 내에 
 각 서비스별로 ECR 엔드포인트 분리 요구사항을 
